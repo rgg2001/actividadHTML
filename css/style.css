@@ -1,0 +1,34 @@
+
+
+h2{
+    color: black;
+}
+
+h1{
+    color: blue;
+}
+
+body{
+    background-image: url('../img/clear-11550721271xzehwonrlp.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body{
+    font-family: "Sofia", serif;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    text-align: center;
+  }
+
+nav li{
+      display: inline;
+    }
+
+
